@@ -1,0 +1,585 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9F804CEA259238F8001719A9 /* JoyOfPaintingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F804CE9259238F8001719A9 /* JoyOfPaintingApp.swift */; };
+		9F804CEC259238F8001719A9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F804CEB259238F8001719A9 /* ContentView.swift */; };
+		9F804CEE259238F9001719A9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9F804CED259238F9001719A9 /* Assets.xcassets */; };
+		9F804CF1259238F9001719A9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9F804CF0259238F9001719A9 /* Preview Assets.xcassets */; };
+		9F804CFC259238F9001719A9 /* JoyOfPaintingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F804CFB259238F9001719A9 /* JoyOfPaintingTests.swift */; };
+		9F804D07259238F9001719A9 /* JoyOfPaintingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F804D06259238F9001719A9 /* JoyOfPaintingUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		9F804CF8259238F9001719A9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9F804CDE259238F8001719A9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9F804CE5259238F8001719A9;
+			remoteInfo = JoyOfPainting;
+		};
+		9F804D03259238F9001719A9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9F804CDE259238F8001719A9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9F804CE5259238F8001719A9;
+			remoteInfo = JoyOfPainting;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		9F804CE6259238F8001719A9 /* JoyOfPainting.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JoyOfPainting.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9F804CE9259238F8001719A9 /* JoyOfPaintingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JoyOfPaintingApp.swift; sourceTree = "<group>"; };
+		9F804CEB259238F8001719A9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		9F804CED259238F9001719A9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		9F804CF0259238F9001719A9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9F804CF2259238F9001719A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9F804CF7259238F9001719A9 /* JoyOfPaintingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JoyOfPaintingTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9F804CFB259238F9001719A9 /* JoyOfPaintingTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JoyOfPaintingTests.swift; sourceTree = "<group>"; };
+		9F804CFD259238F9001719A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9F804D02259238F9001719A9 /* JoyOfPaintingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JoyOfPaintingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9F804D06259238F9001719A9 /* JoyOfPaintingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JoyOfPaintingUITests.swift; sourceTree = "<group>"; };
+		9F804D08259238F9001719A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9F804CE3259238F8001719A9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9F804CF4259238F9001719A9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9F804CFF259238F9001719A9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9F804CDD259238F8001719A9 = {
+			isa = PBXGroup;
+			children = (
+				9F804CE8259238F8001719A9 /* JoyOfPainting */,
+				9F804CFA259238F9001719A9 /* JoyOfPaintingTests */,
+				9F804D05259238F9001719A9 /* JoyOfPaintingUITests */,
+				9F804CE7259238F8001719A9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9F804CE7259238F8001719A9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9F804CE6259238F8001719A9 /* JoyOfPainting.app */,
+				9F804CF7259238F9001719A9 /* JoyOfPaintingTests.xctest */,
+				9F804D02259238F9001719A9 /* JoyOfPaintingUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9F804CE8259238F8001719A9 /* JoyOfPainting */ = {
+			isa = PBXGroup;
+			children = (
+				9F804CE9259238F8001719A9 /* JoyOfPaintingApp.swift */,
+				9F804CEB259238F8001719A9 /* ContentView.swift */,
+				9F804CED259238F9001719A9 /* Assets.xcassets */,
+				9F804CF2259238F9001719A9 /* Info.plist */,
+				9F804CEF259238F9001719A9 /* Preview Content */,
+			);
+			path = JoyOfPainting;
+			sourceTree = "<group>";
+		};
+		9F804CEF259238F9001719A9 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				9F804CF0259238F9001719A9 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		9F804CFA259238F9001719A9 /* JoyOfPaintingTests */ = {
+			isa = PBXGroup;
+			children = (
+				9F804CFB259238F9001719A9 /* JoyOfPaintingTests.swift */,
+				9F804CFD259238F9001719A9 /* Info.plist */,
+			);
+			path = JoyOfPaintingTests;
+			sourceTree = "<group>";
+		};
+		9F804D05259238F9001719A9 /* JoyOfPaintingUITests */ = {
+			isa = PBXGroup;
+			children = (
+				9F804D06259238F9001719A9 /* JoyOfPaintingUITests.swift */,
+				9F804D08259238F9001719A9 /* Info.plist */,
+			);
+			path = JoyOfPaintingUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9F804CE5259238F8001719A9 /* JoyOfPainting */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9F804D0B259238F9001719A9 /* Build configuration list for PBXNativeTarget "JoyOfPainting" */;
+			buildPhases = (
+				9F804CE2259238F8001719A9 /* Sources */,
+				9F804CE3259238F8001719A9 /* Frameworks */,
+				9F804CE4259238F8001719A9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = JoyOfPainting;
+			productName = JoyOfPainting;
+			productReference = 9F804CE6259238F8001719A9 /* JoyOfPainting.app */;
+			productType = "com.apple.product-type.application";
+		};
+		9F804CF6259238F9001719A9 /* JoyOfPaintingTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9F804D0E259238F9001719A9 /* Build configuration list for PBXNativeTarget "JoyOfPaintingTests" */;
+			buildPhases = (
+				9F804CF3259238F9001719A9 /* Sources */,
+				9F804CF4259238F9001719A9 /* Frameworks */,
+				9F804CF5259238F9001719A9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9F804CF9259238F9001719A9 /* PBXTargetDependency */,
+			);
+			name = JoyOfPaintingTests;
+			productName = JoyOfPaintingTests;
+			productReference = 9F804CF7259238F9001719A9 /* JoyOfPaintingTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		9F804D01259238F9001719A9 /* JoyOfPaintingUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9F804D11259238F9001719A9 /* Build configuration list for PBXNativeTarget "JoyOfPaintingUITests" */;
+			buildPhases = (
+				9F804CFE259238F9001719A9 /* Sources */,
+				9F804CFF259238F9001719A9 /* Frameworks */,
+				9F804D00259238F9001719A9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9F804D04259238F9001719A9 /* PBXTargetDependency */,
+			);
+			name = JoyOfPaintingUITests;
+			productName = JoyOfPaintingUITests;
+			productReference = 9F804D02259238F9001719A9 /* JoyOfPaintingUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9F804CDE259238F8001719A9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1230;
+				LastUpgradeCheck = 1230;
+				TargetAttributes = {
+					9F804CE5259238F8001719A9 = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					9F804CF6259238F9001719A9 = {
+						CreatedOnToolsVersion = 12.3;
+						TestTargetID = 9F804CE5259238F8001719A9;
+					};
+					9F804D01259238F9001719A9 = {
+						CreatedOnToolsVersion = 12.3;
+						TestTargetID = 9F804CE5259238F8001719A9;
+					};
+				};
+			};
+			buildConfigurationList = 9F804CE1259238F8001719A9 /* Build configuration list for PBXProject "JoyOfPainting" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9F804CDD259238F8001719A9;
+			productRefGroup = 9F804CE7259238F8001719A9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9F804CE5259238F8001719A9 /* JoyOfPainting */,
+				9F804CF6259238F9001719A9 /* JoyOfPaintingTests */,
+				9F804D01259238F9001719A9 /* JoyOfPaintingUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9F804CE4259238F8001719A9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9F804CF1259238F9001719A9 /* Preview Assets.xcassets in Resources */,
+				9F804CEE259238F9001719A9 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9F804CF5259238F9001719A9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9F804D00259238F9001719A9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9F804CE2259238F8001719A9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9F804CEC259238F8001719A9 /* ContentView.swift in Sources */,
+				9F804CEA259238F8001719A9 /* JoyOfPaintingApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9F804CF3259238F9001719A9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9F804CFC259238F9001719A9 /* JoyOfPaintingTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9F804CFE259238F9001719A9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9F804D07259238F9001719A9 /* JoyOfPaintingUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		9F804CF9259238F9001719A9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9F804CE5259238F8001719A9 /* JoyOfPainting */;
+			targetProxy = 9F804CF8259238F9001719A9 /* PBXContainerItemProxy */;
+		};
+		9F804D04259238F9001719A9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9F804CE5259238F8001719A9 /* JoyOfPainting */;
+			targetProxy = 9F804D03259238F9001719A9 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		9F804D09259238F9001719A9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		9F804D0A259238F9001719A9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9F804D0C259238F9001719A9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"JoyOfPainting/Preview Content\"";
+				DEVELOPMENT_TEAM = ACDRGW6CP2;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = JoyOfPainting/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.flowkey.janek.JoyOfPainting;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		9F804D0D259238F9001719A9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"JoyOfPainting/Preview Content\"";
+				DEVELOPMENT_TEAM = ACDRGW6CP2;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = JoyOfPainting/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.flowkey.janek.JoyOfPainting;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		9F804D0F259238F9001719A9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = ACDRGW6CP2;
+				INFOPLIST_FILE = JoyOfPaintingTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.flowkey.janek.JoyOfPaintingTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/JoyOfPainting.app/JoyOfPainting";
+			};
+			name = Debug;
+		};
+		9F804D10259238F9001719A9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = ACDRGW6CP2;
+				INFOPLIST_FILE = JoyOfPaintingTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.flowkey.janek.JoyOfPaintingTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/JoyOfPainting.app/JoyOfPainting";
+			};
+			name = Release;
+		};
+		9F804D12259238F9001719A9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = ACDRGW6CP2;
+				INFOPLIST_FILE = JoyOfPaintingUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.flowkey.janek.JoyOfPaintingUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = JoyOfPainting;
+			};
+			name = Debug;
+		};
+		9F804D13259238F9001719A9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = ACDRGW6CP2;
+				INFOPLIST_FILE = JoyOfPaintingUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.flowkey.janek.JoyOfPaintingUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = JoyOfPainting;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9F804CE1259238F8001719A9 /* Build configuration list for PBXProject "JoyOfPainting" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9F804D09259238F9001719A9 /* Debug */,
+				9F804D0A259238F9001719A9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9F804D0B259238F9001719A9 /* Build configuration list for PBXNativeTarget "JoyOfPainting" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9F804D0C259238F9001719A9 /* Debug */,
+				9F804D0D259238F9001719A9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9F804D0E259238F9001719A9 /* Build configuration list for PBXNativeTarget "JoyOfPaintingTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9F804D0F259238F9001719A9 /* Debug */,
+				9F804D10259238F9001719A9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9F804D11259238F9001719A9 /* Build configuration list for PBXNativeTarget "JoyOfPaintingUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9F804D12259238F9001719A9 /* Debug */,
+				9F804D13259238F9001719A9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9F804CDE259238F8001719A9 /* Project object */;
+}
