@@ -1,10 +1,9 @@
 {
   "kind": "youtube#playlistListResponse",
-  "etag": "L6VMKdKf5NynoIBL6wiwmF0LT3o",
-  "nextPageToken": "CBkQAA",
+  "etag": "1-mDa0GSml2iFVHmQrAyVJkiv6U",
   "pageInfo": {
     "totalResults": 40,
-    "resultsPerPage": 25
+    "resultsPerPage": 50
   },
   "items": [
     {
@@ -1155,6 +1154,656 @@
       },
       "contentDetails": {
         "itemCount": 13
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "-b98F52EOE74-pKQHvjjTe8PnPg",
+      "id": "PLAEQD0ULngi7_Td-kv4YRaDwJUpUuz0WR",
+      "snippet": {
+        "publishedAt": "2016-03-01T16:04:22Z",
+        "channelId": "UCxcnsr1R5Ge_fbTu5ajt8DQ",
+        "title": "The Joy of Painting - Season 8",
+        "description": "Enjoy the entire eighth season of the PBS television series: Bob Ross - The Joy of Painting. #HappyTrees #ThankYouBob #OilPainting #BobRoss #TheJoyOfPainting",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cC5ozePVKGI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cC5ozePVKGI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cC5ozePVKGI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cC5ozePVKGI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cC5ozePVKGI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bob Ross",
+        "localized": {
+          "title": "The Joy of Painting - Season 8",
+          "description": "Enjoy the entire eighth season of the PBS television series: Bob Ross - The Joy of Painting. #HappyTrees #ThankYouBob #OilPainting #BobRoss #TheJoyOfPainting"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 13
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "AlUXg8qh0dTQ0xWI0ei9bm8NeFI",
+      "id": "PLAEQD0ULngi5oKehJMOnVTetKSjfmFrT1",
+      "snippet": {
+        "publishedAt": "2016-02-19T18:39:07Z",
+        "channelId": "UCxcnsr1R5Ge_fbTu5ajt8DQ",
+        "title": "The Joy of Painting - Season 7",
+        "description": "Enjoy the entire seventh season of the PBS television series: Bob Ross - The Joy of Painting. #HappyTrees #ThankYouBob #OilPainting #BobRoss #TheJoyOfPainting",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kdlHV6ceI_g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kdlHV6ceI_g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kdlHV6ceI_g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kdlHV6ceI_g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kdlHV6ceI_g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bob Ross",
+        "localized": {
+          "title": "The Joy of Painting - Season 7",
+          "description": "Enjoy the entire seventh season of the PBS television series: Bob Ross - The Joy of Painting. #HappyTrees #ThankYouBob #OilPainting #BobRoss #TheJoyOfPainting"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 13
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "yVZIrX_gElsUAbmceRWstRT2UjI",
+      "id": "PLAEQD0ULngi5UR35RJsvL0Xvlm3oeY4Ma",
+      "snippet": {
+        "publishedAt": "2016-02-08T18:12:23Z",
+        "channelId": "UCxcnsr1R5Ge_fbTu5ajt8DQ",
+        "title": "The Joy of Painting - Season 6",
+        "description": "Enjoy the entire sixth season of the PBS television series: Bob Ross - The Joy of Painting. #HappyTrees #ThankYouBob #OilPainting #BobRoss #TheJoyOfPainting",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LygUyAb78oY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LygUyAb78oY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LygUyAb78oY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LygUyAb78oY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LygUyAb78oY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bob Ross",
+        "localized": {
+          "title": "The Joy of Painting - Season 6",
+          "description": "Enjoy the entire sixth season of the PBS television series: Bob Ross - The Joy of Painting. #HappyTrees #ThankYouBob #OilPainting #BobRoss #TheJoyOfPainting"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 13
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "-pDBpHWHKlU93aPPLFWo4HTtVJg",
+      "id": "PLAEQD0ULngi6bAFRfcqgpKP4T4SnoxoAz",
+      "snippet": {
+        "publishedAt": "2016-02-03T15:48:10Z",
+        "channelId": "UCxcnsr1R5Ge_fbTu5ajt8DQ",
+        "title": "The Joy of Painting - Season 5",
+        "description": "Enjoy the entire fifth season of the PBS television series: Bob Ross - The Joy of Painting. #HappyTrees #ThankYouBob #OilPainting #BobRoss #TheJoyOfPainting",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DqhzxdkdQS0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DqhzxdkdQS0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DqhzxdkdQS0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DqhzxdkdQS0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DqhzxdkdQS0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bob Ross",
+        "localized": {
+          "title": "The Joy of Painting - Season 5",
+          "description": "Enjoy the entire fifth season of the PBS television series: Bob Ross - The Joy of Painting. #HappyTrees #ThankYouBob #OilPainting #BobRoss #TheJoyOfPainting"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 13
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "ZPzwBiOiDb3XN3DWiwff3W2H1O4",
+      "id": "PLAEQD0ULngi56KMlB1P_wK9pJZcMpEFQd",
+      "snippet": {
+        "publishedAt": "2016-01-21T18:35:59Z",
+        "channelId": "UCxcnsr1R5Ge_fbTu5ajt8DQ",
+        "title": "The Joy of Painting - Season 4",
+        "description": "Enjoy the entire fourth season of the PBS television series: Bob Ross - The Joy of Painting. #HappyTrees #ThankYouBob #OilPainting #BobRoss #TheJoyOfPainting",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hP4GfMgsNVE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hP4GfMgsNVE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hP4GfMgsNVE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hP4GfMgsNVE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hP4GfMgsNVE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bob Ross",
+        "localized": {
+          "title": "The Joy of Painting - Season 4",
+          "description": "Enjoy the entire fourth season of the PBS television series: Bob Ross - The Joy of Painting. #HappyTrees #ThankYouBob #OilPainting #BobRoss #TheJoyOfPainting"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 13
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "o4mNqCpBkVQ1yYCyVuYLZg4_8xI",
+      "id": "PLAEQD0ULngi7zDD6O36FKkEHse-JCdVvh",
+      "snippet": {
+        "publishedAt": "2016-01-15T16:51:12Z",
+        "channelId": "UCxcnsr1R5Ge_fbTu5ajt8DQ",
+        "title": "The Joy of Painting - Season 3",
+        "description": "Enjoy the entire third season of the PBS television series: Bob Ross - The Joy of Painting. #HappyTrees #ThankYouBob #OilPainting #BobRoss #TheJoyOfPainting",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hoimk4s8JoQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hoimk4s8JoQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hoimk4s8JoQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hoimk4s8JoQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hoimk4s8JoQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bob Ross",
+        "localized": {
+          "title": "The Joy of Painting - Season 3",
+          "description": "Enjoy the entire third season of the PBS television series: Bob Ross - The Joy of Painting. #HappyTrees #ThankYouBob #OilPainting #BobRoss #TheJoyOfPainting"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 13
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "9koLUzOG1QfDJiDoSIpsHij-RTs",
+      "id": "PLAEQD0ULngi5VAEOviVE6svrUW2axISf6",
+      "snippet": {
+        "publishedAt": "2015-11-20T21:00:59Z",
+        "channelId": "UCxcnsr1R5Ge_fbTu5ajt8DQ",
+        "title": "The Joy of Painting - Season 2",
+        "description": "Enjoy the entire second season of the PBS television series: Bob Ross - The Joy of Painting. #HappyTrees #ThankYouBob #OilPainting #BobRoss #TheJoyOfPainting",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GARWowi0QXI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GARWowi0QXI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GARWowi0QXI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GARWowi0QXI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GARWowi0QXI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bob Ross",
+        "localized": {
+          "title": "The Joy of Painting - Season 2",
+          "description": "Enjoy the entire second season of the PBS television series: Bob Ross - The Joy of Painting. #HappyTrees #ThankYouBob #OilPainting #BobRoss #TheJoyOfPainting"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 13
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "ZUYIe12Yi5GLNJ-IaU0wJBsR_hY",
+      "id": "PLAEQD0ULngi69x_7JbQvSMprLRK_KSVLu",
+      "snippet": {
+        "publishedAt": "2015-10-22T19:34:49Z",
+        "channelId": "UCxcnsr1R5Ge_fbTu5ajt8DQ",
+        "title": "The Joy of Painting - Season 1",
+        "description": "Enjoy the entire first season of the PBS television series: Bob Ross - The Joy of Painting. #HappyTrees #ThankYouBob #OilPainting #BobRoss #TheJoyOfPainting",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oh5p5f5_-7A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oh5p5f5_-7A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oh5p5f5_-7A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oh5p5f5_-7A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oh5p5f5_-7A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bob Ross",
+        "localized": {
+          "title": "The Joy of Painting - Season 1",
+          "description": "Enjoy the entire first season of the PBS television series: Bob Ross - The Joy of Painting. #HappyTrees #ThankYouBob #OilPainting #BobRoss #TheJoyOfPainting"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 13
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "ZPz7WpNZQL5RrQFGFEyEWC0Wl6g",
+      "id": "PLAEQD0ULngi699dPZp_bI7yFX8BP7pF8i",
+      "snippet": {
+        "publishedAt": "2015-07-24T20:04:08Z",
+        "channelId": "UCxcnsr1R5Ge_fbTu5ajt8DQ",
+        "title": "HD Bob Ross Episodes",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wdr4t7cQW2U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wdr4t7cQW2U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wdr4t7cQW2U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wdr4t7cQW2U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wdr4t7cQW2U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bob Ross",
+        "localized": {
+          "title": "HD Bob Ross Episodes",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 1
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "DaHXZv5GpHqGBgHT5CiXfBbPIE8",
+      "id": "PLAEQD0ULngi55eOOpIGvWYAOCEAi16GNP",
+      "snippet": {
+        "publishedAt": "2015-04-06T16:27:00Z",
+        "channelId": "UCxcnsr1R5Ge_fbTu5ajt8DQ",
+        "title": "Bob Ross - Short Videos",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x-9CqidKRSM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x-9CqidKRSM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x-9CqidKRSM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bob Ross",
+        "localized": {
+          "title": "Bob Ross - Short Videos",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 15
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "wXyvoYFNNLBM2qMT036ftaeWitc",
+      "id": "PLAEQD0ULngi67rwmhrkNjMZKvyCReqDV4",
+      "snippet": {
+        "publishedAt": "2015-03-24T15:13:19Z",
+        "channelId": "UCxcnsr1R5Ge_fbTu5ajt8DQ",
+        "title": "Bob Ross - The Joy of Painting (Full Episodes)",
+        "description": "You've seen him before. He's the soft spoken guy painting happy clouds, mountains and trees in about twenty-six television minutes, using big house painting-type brushes and cooing soothing \"you can do its\" to the audience. Bob Ross' The Joy of Painting is the most recognized, most watched TV art show in history.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lLWEXRAnQd0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lLWEXRAnQd0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lLWEXRAnQd0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lLWEXRAnQd0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lLWEXRAnQd0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bob Ross",
+        "localized": {
+          "title": "Bob Ross - The Joy of Painting (Full Episodes)",
+          "description": "You've seen him before. He's the soft spoken guy painting happy clouds, mountains and trees in about twenty-six television minutes, using big house painting-type brushes and cooing soothing \"you can do its\" to the audience. Bob Ross' The Joy of Painting is the most recognized, most watched TV art show in history."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 403
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "kr9IRwDyHzRJCQaBOrMEiLLUq20",
+      "id": "PLDFCB746A73D189AB",
+      "snippet": {
+        "publishedAt": "2011-03-29T02:03:31Z",
+        "channelId": "UCxcnsr1R5Ge_fbTu5ajt8DQ",
+        "title": "Friends of Bob Ross Painting Projects",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "http://s.ytimg.com/yts/img/no_thumbnail-vfl4t3-4R.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "http://s.ytimg.com/yts/img/no_thumbnail-vfl4t3-4R.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "http://s.ytimg.com/yts/img/no_thumbnail-vfl4t3-4R.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bob Ross",
+        "localized": {
+          "title": "Friends of Bob Ross Painting Projects",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 99
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "gmv0RdvjUlt11tNDs83TCQ8jkbo",
+      "id": "PLA76C9FAB584FA02A",
+      "snippet": {
+        "publishedAt": "2011-03-29T01:34:03Z",
+        "channelId": "UCxcnsr1R5Ge_fbTu5ajt8DQ",
+        "title": "Bob Ross Wildlife Painting with Bea Cox",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_SL5ua0yP-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_SL5ua0yP-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_SL5ua0yP-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bob Ross",
+        "localized": {
+          "title": "Bob Ross Wildlife Painting with Bea Cox",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 3
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "mE_xCBaBycOrRDHrp8mYRd3oPx0",
+      "id": "PL18B40AB200D980A7",
+      "snippet": {
+        "publishedAt": "2011-03-29T01:25:29Z",
+        "channelId": "UCxcnsr1R5Ge_fbTu5ajt8DQ",
+        "title": "Bob Ross Floral Painting WIth Annette Kowalski",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5lKoGPEOPj8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5lKoGPEOPj8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5lKoGPEOPj8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bob Ross",
+        "localized": {
+          "title": "Bob Ross Floral Painting WIth Annette Kowalski",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 2
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "bAaxQsmcgFMMtIkOx9lUIqG1R6U",
+      "id": "PLCEF4BD9A2379B0D6",
+      "snippet": {
+        "publishedAt": "2011-03-27T21:33:28Z",
+        "channelId": "UCxcnsr1R5Ge_fbTu5ajt8DQ",
+        "title": "Bob Ross Landscape Painting",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xfF6sr5OaOc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xfF6sr5OaOc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xfF6sr5OaOc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xfF6sr5OaOc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xfF6sr5OaOc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bob Ross",
+        "localized": {
+          "title": "Bob Ross Landscape Painting",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 109
       }
     }
   ]
