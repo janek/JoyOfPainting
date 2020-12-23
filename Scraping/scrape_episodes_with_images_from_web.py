@@ -27,7 +27,7 @@ for i in range(1,num_seasons+1):
 	episode_image_links = [img['src'].split("/")[-1] for img in imgs]
 	
 	episodes_df = pd.DataFrame(
-		{'episode_number': episode_numbers,
+		{'episode_signature': episode_numbers,
 		 'episode_title': episode_titles,
 		 'image_link': episode_image_links
 		})
