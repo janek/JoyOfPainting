@@ -38,6 +38,5 @@ for i in range(1,num_seasons+1):
 episodes = pd.concat([df for df in dfs])
 episodes = episodes[episodes.image_link.str.contains("painting")]
 episodes = episodes[episodes.image_link != "so-you-want-to-buy-a-bob-ross-painting.jpg"]
-episodes.reset_index(drop=True, inplace=True)
 
-episodes.to_csv("episodes.csv")
+episodes.to_csv("episodes_from_web.csv", index=False)
