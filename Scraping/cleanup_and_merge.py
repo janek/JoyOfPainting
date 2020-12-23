@@ -40,8 +40,6 @@ for i, row in youtube_episodes.iterrows():
 
 web_episodes = pd.read_csv("episodes_from_web.csv")
 
-
-
-episodes = pd.merge(youtube_episodes, web_episodes, how="inner", on=["episode_signature", "episode_title"])
+episodes = pd.merge(youtube_episodes, web_episodes, how="outer", on=["episode_signature", "episode_title"])
 episodes.sort_values(["season_number", "episode_number"], inplace=True)
-episodes.to_csv("episodes_final.csv")
+episodes.to_csv("episodes_final.csv", index=False)
