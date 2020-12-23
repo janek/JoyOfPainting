@@ -135,3 +135,4 @@ iOSInjectionProject/
 **/xcshareddata/WorkspaceSettings.xcsettings
 
 # End of https://www.toptal.com/developers/gitignore/api/xcode,macos,nova,swift
+Scraping/youtube_api_client_secret.json
