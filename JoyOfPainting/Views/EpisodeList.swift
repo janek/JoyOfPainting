@@ -13,7 +13,7 @@ struct EpisodeList: View {
             List(episodes) { episode in
                     EpisodeCell(episode: episode)
             }
-            .navigationTitle("Episodes")
+            .navigationTitle("All Episodes")
         }
     }
 }

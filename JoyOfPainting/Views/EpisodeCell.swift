@@ -10,12 +10,23 @@ import SwiftUI
 struct EpisodeCell: View {
     var episode: Episode
     var body: some View {
-        HStack {
+        HStack(spacing: 10) {
             episode.image
                 .resizable()
                 .frame(width: 150, height: 112)
-            Text(episode.title)
-            Link("↗", destination: episode.youtubeLink)
+                .cornerRadius(10)
+                .padding(.bottom, 6)
+                .padding(.top, 6)
+
+            VStack(alignment: .leading, spacing: nil, content: {
+                HStack {
+                    Text(episode.title)
+                    Link("↗", destination: episode.youtubeLink)
+                }
+
+                Text(episode.id)
+                    .foregroundColor(.gray)
+            })
         }
 
         Spacer()
@@ -30,6 +41,6 @@ struct EpisodeCell_Previews: PreviewProvider {
             EpisodeCell(episode: episodes[1])
                 .frame(width: 300.0, height: 300.0)
         }
-        .previewLayout(.fixed(width: 300, height: 70))
+        .previewLayout(.fixed(width: 400, height: 200))
     }
 }
