@@ -6,18 +6,21 @@
 //
 
 import Foundation
+import SwiftUI
 
 struct Episode {
     let title: String
     let seasonNumber: Int
     let episodeNumber: Int
-    let imageFileName: String
+    let imageName: String
     let youtubeVideoId: String
 
+    var image: Image {
+        Image(imageName)
+    }
+
     var signature: String {
-        get {
-            "S" + String(seasonNumber) + "E" + String(episodeNumber)
-        }
+        "S" + String(seasonNumber) + "E" + String(episodeNumber)
     }
 
     var youtubeLink: String {

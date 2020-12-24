@@ -15,6 +15,9 @@
 		9F804D07259238F9001719A9 /* JoyOfPaintingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F804D06259238F9001719A9 /* JoyOfPaintingUITests.swift */; };
 		9F9E226D25949A9200E81449 /* episodes_final.csv in Resources */ = {isa = PBXBuildFile; fileRef = 9F9E226C25949A9200E81449 /* episodes_final.csv */; };
 		9F9E22752594A3B800E81449 /* Episode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F9E22742594A3B800E81449 /* Episode.swift */; };
+		9F9E22862594B72B00E81449 /* EpisodeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F9E22852594B72B00E81449 /* EpisodeCell.swift */; };
+		9F9E228E2594B7C000E81449 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F9E228D2594B7C000E81449 /* ModelData.swift */; };
+		9F9E22972594CAF300E81449 /* EpisodeList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F9E22962594CAF300E81449 /* EpisodeList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +53,9 @@
 		9F9E2268259498D900E81449 /* todo.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = todo.md; sourceTree = "<group>"; };
 		9F9E226C25949A9200E81449 /* episodes_final.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = episodes_final.csv; sourceTree = "<group>"; };
 		9F9E22742594A3B800E81449 /* Episode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Episode.swift; sourceTree = "<group>"; };
+		9F9E22852594B72B00E81449 /* EpisodeCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EpisodeCell.swift; sourceTree = "<group>"; };
+		9F9E228D2594B7C000E81449 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		9F9E22962594CAF300E81449 /* EpisodeList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EpisodeList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,11 +106,9 @@
 		9F804CE8259238F8001719A9 /* JoyOfPainting */ = {
 			isa = PBXGroup;
 			children = (
-				9F804CE9259238F8001719A9 /* JoyOfPaintingApp.swift */,
-				9F9E22742594A3B800E81449 /* Episode.swift */,
-				9F804CEB259238F8001719A9 /* ContentView.swift */,
-				9F9E226C25949A9200E81449 /* episodes_final.csv */,
-				9F9E2268259498D900E81449 /* todo.md */,
+				9F9E22792594B6BF00E81449 /* Views */,
+				9F9E227D2594B6C600E81449 /* Model */,
+				9F9E22842594B6CD00E81449 /* Resources */,
 				9F804CED259238F9001719A9 /* Assets.xcassets */,
 				9F804CF2259238F9001719A9 /* Info.plist */,
 				9F804CEF259238F9001719A9 /* Preview Content */,
@@ -136,6 +140,35 @@
 				9F804D08259238F9001719A9 /* Info.plist */,
 			);
 			path = JoyOfPaintingUITests;
+			sourceTree = "<group>";
+		};
+		9F9E22792594B6BF00E81449 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				9F804CE9259238F8001719A9 /* JoyOfPaintingApp.swift */,
+				9F9E22852594B72B00E81449 /* EpisodeCell.swift */,
+				9F9E22962594CAF300E81449 /* EpisodeList.swift */,
+				9F804CEB259238F8001719A9 /* ContentView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		9F9E227D2594B6C600E81449 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				9F9E22742594A3B800E81449 /* Episode.swift */,
+				9F9E228D2594B7C000E81449 /* ModelData.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		9F9E22842594B6CD00E81449 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				9F9E226C25949A9200E81449 /* episodes_final.csv */,
+				9F9E2268259498D900E81449 /* todo.md */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -269,8 +302,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				9F804CEC259238F8001719A9 /* ContentView.swift in Sources */,
+				9F9E22862594B72B00E81449 /* EpisodeCell.swift in Sources */,
+				9F9E228E2594B7C000E81449 /* ModelData.swift in Sources */,
 				9F9E22752594A3B800E81449 /* Episode.swift in Sources */,
 				9F804CEA259238F8001719A9 /* JoyOfPaintingApp.swift in Sources */,
+				9F9E22972594CAF300E81449 /* EpisodeList.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

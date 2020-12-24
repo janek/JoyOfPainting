@@ -12,6 +12,8 @@
 
 - document the scraping process, or even clean up the code
 
+- consider switching to JSON and Codable for loading
+
 
 Tests:
 - load CSV
