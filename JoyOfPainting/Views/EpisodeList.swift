@@ -20,7 +20,7 @@ struct EpisodeList: View {
 
 struct EpisodeList_Previews: PreviewProvider {
     static var previews: some View {
-        ForEach(["iPhone SE (2nd generation)", "iPhone XS Max"], id: \.self) { deviceName in
+        ForEach(["iPhone SE (2nd generation)", "iPhone XS Max", "iPad (8th generation)"], id: \.self) { deviceName in
             EpisodeList()
                 .previewDevice(PreviewDevice(rawValue: deviceName))
                 .previewDisplayName(deviceName)
