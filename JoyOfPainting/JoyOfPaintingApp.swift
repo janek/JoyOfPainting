@@ -23,10 +23,20 @@ struct JoyOfPaintingApp: App {
         do {
             let path = Bundle.main.path(forResource: "episodes_final", ofType: "csv")
             // XXX: How do we want to handle the file not being there?
-            let text = try String(contentsOfFile: path!)
-            print(text)
+            let data = try String(contentsOfFile: path!)
+            var episodes = [Episode]()
+
+            data.enumerateLines { (line, _) in
+                let csvValues = line.split(separator: ",")
+                let episode = Episode(title: String(csvValues[0]),
+                                     seasonNumber: Int(csvValues[4])!,
+                                     episodeNumber: Int(csvValues[3])!,
+                                     imageFileName: String(csvValues[5]),
+                                     youtubeVideoId: String(csvValues[1]))
+                episodes.append(episode)
+            }
         } catch {
-            print("error")
+            print("Error occured when initializing from CSV")
         }
 
     }
