@@ -14,4 +14,20 @@ struct JoyOfPaintingApp: App {
             MainView()
         }
     }
+
+    init() {
+        initDataFromCSV()
+    }
+
+    func initDataFromCSV() {
+        do {
+            let path = Bundle.main.path(forResource: "episodes_final", ofType: "csv")
+            // XXX: How do we want to handle the file not being there?
+            let text = try String(contentsOfFile: path!)
+            print(text)
+        } catch {
+            print("error")
+        }
+
+    }
 }
