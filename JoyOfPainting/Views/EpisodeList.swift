@@ -11,11 +11,9 @@ struct EpisodeList: View {
     var body: some View {
         NavigationView {
             List(episodes) { episode in
-                NavigationLink(destination: nil) {
                     EpisodeCell(episode: episode)
-                }
             }
-            .navigationTitle("Landmarks")
+            .navigationTitle("Episodes")
         }
     }
 }

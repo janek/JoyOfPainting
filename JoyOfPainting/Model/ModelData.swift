@@ -29,8 +29,6 @@ func load(_ filename: String) -> [Episode]? {
                                  episodeNumber: Int(csvValues[3])!,
                                  imageName: imgName,
                                  youtubeVideoId: String(csvValues[1]))
-            print(String(csvValues[5]))
-            print("imageName: " + imgName)
             episodes.append(episode)
         }
         return episodes

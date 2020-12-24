@@ -8,24 +8,14 @@
 import Foundation
 import SwiftUI
 
-struct Episode {
+struct Episode: Identifiable {
     let title: String
     let seasonNumber: Int
     let episodeNumber: Int
     let imageName: String
     let youtubeVideoId: String
 
-    var image: Image {
-        Image(imageName)
-    }
-
-    var signature: String {
-        "S" + String(seasonNumber) + "E" + String(episodeNumber)
-    }
-
-    var youtubeLink: String {
-        get {
-            "https://www.youtube.com/watch?v=" + youtubeVideoId
-        }
-    }
+    var image: Image { Image(imageName) }
+    var id: String { "S" + String(seasonNumber) + "E" + String(episodeNumber)}
+    var youtubeLink: URL { URL(string: "https://www.youtube.com/watch?v=" + youtubeVideoId)! }
 }
