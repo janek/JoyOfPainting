@@ -42,5 +42,5 @@ web_episodes = pd.read_csv("episodes_from_web.csv")
 
 episodes = pd.merge(youtube_episodes, web_episodes, how="outer", on=["episode_signature", "episode_title"])
 episodes.sort_values(["season_number", "episode_number"], inplace=True)
-episodes.to_csv("episodes_final.csv", index=False)
+episodes.to_csv("episodes_final.csv", index=False, header=False)
 episodes.to_json("episodes_final.json", orient="values")
