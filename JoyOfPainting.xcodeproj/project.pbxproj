@@ -13,6 +13,7 @@
 		9F804CF1259238F9001719A9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9F804CF0259238F9001719A9 /* Preview Assets.xcassets */; };
 		9F804CFC259238F9001719A9 /* JoyOfPaintingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F804CFB259238F9001719A9 /* JoyOfPaintingTests.swift */; };
 		9F804D07259238F9001719A9 /* JoyOfPaintingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F804D06259238F9001719A9 /* JoyOfPaintingUITests.swift */; };
+		9F9E226D25949A9200E81449 /* episodes_final.csv in Resources */ = {isa = PBXBuildFile; fileRef = 9F9E226C25949A9200E81449 /* episodes_final.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,8 @@
 		9F804D02259238F9001719A9 /* JoyOfPaintingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JoyOfPaintingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F804D06259238F9001719A9 /* JoyOfPaintingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JoyOfPaintingUITests.swift; sourceTree = "<group>"; };
 		9F804D08259238F9001719A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9F9E2268259498D900E81449 /* todo.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = todo.md; sourceTree = "<group>"; };
+		9F9E226C25949A9200E81449 /* episodes_final.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = episodes_final.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +100,8 @@
 			children = (
 				9F804CE9259238F8001719A9 /* JoyOfPaintingApp.swift */,
 				9F804CEB259238F8001719A9 /* ContentView.swift */,
+				9F9E226C25949A9200E81449 /* episodes_final.csv */,
+				9F9E2268259498D900E81449 /* todo.md */,
 				9F804CED259238F9001719A9 /* Assets.xcassets */,
 				9F804CF2259238F9001719A9 /* Info.plist */,
 				9F804CEF259238F9001719A9 /* Preview Content */,
@@ -235,6 +240,7 @@
 			files = (
 				9F804CF1259238F9001719A9 /* Preview Assets.xcassets in Resources */,
 				9F804CEE259238F9001719A9 /* Assets.xcassets in Resources */,
+				9F9E226D25949A9200E81449 /* episodes_final.csv in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
