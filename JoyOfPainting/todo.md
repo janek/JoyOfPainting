@@ -10,6 +10,8 @@
 
 - add playlist ID to the data and to the app
 
+- document the scraping process, or even clean up the code
+
 
 Tests:
 - load CSV
