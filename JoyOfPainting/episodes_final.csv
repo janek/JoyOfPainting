@@ -1,0 +1,405 @@
+episode_title,video_id,episode_signature,episode_number,season_number,image_link
+A Walk in the Woods,oh5p5f5_-7A,S1E1,1,1,painting282.jpg
+Mt. McKinley,RInDWhYceLU,S1E2,2,1,painting283.jpg
+Ebony Sunset,UOziR7PoVco,S1E3,3,1,painting284.jpg
+Winter Mist,0pwoixRikn4,S1E4,4,1,painting285.jpg
+Quiet Stream,DFSIQNjKRfk,S1E5,5,1,painting286.jpg
+Winter Moon,loAzRUzx1wI,S1E6,6,1,painting287.jpg
+Autumn Mountain,sDdpc8uisD0,S1E7,7,1,painting288.jpg
+Peaceful Valley,kQlFwTOkYzg,S1E8,8,1,painting289.jpg
+Seascape,QxcS7p1VHyQ,S1E9,9,1,painting290.jpg
+Mountain Lake,wDnLlywAL5I,S1E10,10,1,painting291.jpg
+Winter Glow,Q03YvknOVe0,S1E11,11,1,painting292.jpg
+Snow Fall,4E35-8x_y04,S1E12,12,1,painting293.jpg
+Final Reflections,IEQWfszfRlA,S1E13,13,1,painting294.jpg
+Meadow Lake,GARWowi0QXI,S2E1,1,2,painting269.jpg
+Winter Sun,VPfYRj4DDco,S2E2,2,2,painting270.jpg
+Ebony Sea,aOJsKNzO3i8,S2E3,3,2,painting271.jpg
+Shades of Grey,I-ousb8-SD0,S2E4,4,2,painting272.jpg
+Autumn Splendor,rTTWw5Gd79I,S2E5,5,2,painting273.jpg
+Black River,6O4sfJd8G_M,S2E6,6,2,painting274.jpg
+Brown Mountain,Vx6v47gHBWM,S2E7,7,2,painting275.jpg
+Reflections,0FYfo94qefg,S2E8,8,2,painting276.jpg
+Black and White Seascape,PMDyPrE0puo,S2E9,9,2,painting277.jpg
+Lazy River,BW2wKKFvH1g,S2E10,10,2,painting278.jpg
+Black Waterfall,GzSqjyQUPZQ,S2E11,11,2,painting279.jpg
+Mountain Waterfall,9jIt95PCFAA,S2E12,12,2,painting280.jpg
+Final Grace,miJ19Kz_i3Y,S2E13,13,2,painting281.jpg
+Mountain Retreat,hoimk4s8JoQ,S3E1,1,3,painting256.jpg
+Blue Moon,loit61vLUMc,S3E2,2,3,painting257.jpg
+Bubbling Stream,fuFalEXVN0k,S3E3,3,3,painting258.jpg
+Winter Night,8ysFkNYwhAE,S3E4,4,3,painting259.jpg
+Distant Hills,8Zge88tVwjE,S3E5,5,3,painting260.jpg
+Covered Bridge,OHSm8kLE7js,S3E6,6,3,painting261.jpg
+Quiet Inlet,9N5IWKzYIyU,S3E7,7,3,painting262.jpg
+Night Light,l141Y0x8om0,S3E8,8,3,painting263.jpg
+The Old Mill,OFKFUJ9eDNs,S3E9,9,3,painting264.jpg
+Campfire,L5bXkI0-pEg,S3E10,10,3,painting265.jpg
+Rustic Barn,WJJwrnFhUUg,S3E11,11,3,painting266.jpg
+Hidden Lake,P_DaqkFbnac,S3E12,12,3,painting267.jpg
+Peaceful Waters,Z0vtjRLqXcQ,S3E13,13,3,painting268.jpg
+Purple Splendor,hP4GfMgsNVE,S4E1,1,4,painting243.jpg
+Tranquil Valley,PbchoOWWCZs,S4E2,2,4,painting244.jpg
+Majestic Mountains,NcVeRlPu_5w,S4E3,3,4,painting245.jpg
+Winter Sawscape,lmKAwKrONmE,S4E4,4,4,painting246.jpg
+Evening Seascape,y5k4GXw_-yI,S4E5,5,4,painting247.jpg
+Warm Summer Day,GBN9AIw3Ao4,S4E6,6,4,painting248.jpg
+Cabin in the Woods,81QKellPA70,S4E7,7,4,painting249.jpg
+Wetlands,2FpVyGanPwM,S4E8,8,4,painting250.jpg
+Cool Waters,tJRvBcqQd5A,S4E9,9,4,painting251.jpg
+Quiet Woods,wIZX57I4aDs,S4E10,10,4,painting252.jpg
+Northwest Majesty,9DU6bunvD_g,S4E11,11,4,painting253.jpg
+Autumn Days,VAdMkf-AAPM,S4E12,12,4,painting254.jpg
+Mountain Challenge,o2cjLA_wgIk,S4E13,13,4,painting255.jpg
+Mountain Waterfall,DqhzxdkdQS0,S5E1,1,5,painting230.jpg
+Twilight Meadow,6evqNlOO7Bw,S5E2,2,5,painting231.jpg
+Mountain Blossoms,UVhhStJAJZc,S5E3,3,5,painting232.jpg
+Winter Stillness,qg9c1SqdRko,S5E4,4,5,painting233.jpg
+Quiet Pond,aiK9xOIJtV8,S5E5,5,5,painting234.jpg
+Ocean Sunrise,u0Bz6TNUK1Q,S5E6,6,5,painting235.jpg
+Bubbling Brook,LiKCzeqn-kg,S5E7,7,5,painting236.jpg
+Arizona Splendor,spFwCh2616s,S5E8,8,5,painting237.jpg
+Anatomy of a Wave,DFQlu6eqrBo,S5E9,9,5,painting238.jpg
+The Windmill,xj8xsTSkbUk,S5E10,10,5,painting239.jpg
+Autumn Glory,yTzlm_t0RmY,S5E11,11,5,painting240.jpg
+Indian Girl,2uXMx8Kjs8I,S5E12,12,5,painting241.jpg
+Meadow Stream,87MMbN1bQCs,S5E13,13,5,painting242.jpg
+Blue River,LygUyAb78oY,S6E1,1,6,painting217.jpg
+Nature's Edge,Bcqyzo85A1o,S6E2,2,6,painting218.jpg
+Morning Mist,wbZreRaE74k,S6E3,3,6,painting219.jpg
+Whispering Stream,QglIjlqsUdU,S6E4,4,6,painting220.jpg
+Secluded Forest,USkduOfwJok,S6E5,5,6,painting221.jpg
+Snow Trail,n9EsFFtwZnE,S6E6,6,6,painting222.jpg
+Arctic Beauty,UQ-RTZCOQn0,S6E7,7,6,painting223.jpg
+Horizons West,m6UM-rN2D6s,S6E8,8,6,painting224.jpg
+High Chateau,dafH8ks9Zww,S6E9,9,6,painting225.jpg
+Country Life,j8Jf7QVKLgQ,S6E10,10,6,painting226.jpg
+Western Expanse,MTInkV5ODjk,S6E11,11,6,painting227.jpg
+Marshlands,Ugiwi8uizpg,S6E12,12,6,painting228.jpg
+Blaze of Color,se7wOprxRGs,S6E13,13,6,painting229.jpg
+Winter Cabin,kdlHV6ceI_g,S7E1,1,7,painting203.jpg
+Secluded Lake,2OxSJcFvpoU,S7E2,2,7,painting204.jpg
+Evergreens at Sunset,YQPEy3hYGo8,S7E3,3,7,painting205.jpg
+Mountain Cabin,E3IAMvO8GyM,S7E4,4,7,painting206.jpg
+Portrait of Sally,MHJB0IBnuD4,S7E5,5,7,painting208.jpg
+Misty Waterfall,530_cVmexiI,S7E6,6,7,painting209.jpg
+Barn at Sunset,WT6n0K2zGnA,S7E7,7,7,painting210.jpg
+Mountain Splendor,GhOGZMpPUSE,S7E8,8,7,painting211.jpg
+Lake by Mountain,yAiYirlcq7o,S7E9,9,7,painting212.jpg
+Mountain Glory,0M9pwLHRR2c,S7E10,10,7,painting213.jpg
+Grey Winter,sS-hNYgDUak,S7E11,11,7,painting214.jpg
+Dock Scene,4KYxkqlzyqM,S7E12,12,7,painting215.jpg
+Dark Waterfall,VqMbL00eZqw,S7E13,13,7,painting216.jpg
+Misty Rolling Hills,cC5ozePVKGI,S8E1,1,8,painting190.jpg
+Lakeside Cabin,CP6_5cQVZvQ,S8E2,2,8,painting191.jpg
+Warm Winter Day,mUJoNLWQ1yI,S8E3,3,8,painting192.jpg
+Waterside Way,uj5FE70BcB0,S8E4,4,8,painting193.jpg
+Hunter's Haven,Da4SPyh1ATM,S8E5,5,8,painting194.jpg
+Bubbling Mountain Brook,U2_SKgM3f4A,S8E6,6,8,painting195.jpg
+Winter Hideaway,19oz9XHZNzA,S8E7,7,8,painting196.jpg
+Foot of the Mountain,cIUBUc_ITBc,S8E8,8,8,painting197.jpg
+Majestic Pine,x5CoQj9zr-c,S8E9,9,8,painting198.jpg
+Cactus at Sunset,XBqD3QhKU24,S8E10,10,8,painting199.jpg
+Mountain Range,V_l6olF3yHI,S8E11,11,8,painting200.jpg
+Lonely Retreat,qTDQt_PdlYc,S8E12,12,8,painting201.jpg
+Northern Lights,vgbMONXc9Cs,S8E13,13,8,painting202.jpg
+Winter Evergreens,O6L5YPt9CeU,S9E1,1,9,painting177.jpg
+Surf's Up,ZKxFvyyOBPQ,S9E2,2,9,painting178.jpg
+Red Sunset,e5JhYi_G-l0,S9E3,3,9,painting179.jpg
+Meadow Road,u5VT_WGM0kg,S9E4,4,9,painting180.jpg
+Winter Oval,pYWiLm_-sXw,S9E5,5,9,painting181.jpg
+Secluded Beach,WGUcw_kFvzU,S9E6,6,9,painting182.jpg
+Forest Hills,E3XW_Zp238U,S9E7,7,9,painting183.jpg
+Little House by the Road,3CDg_9gL-5M,S9E8,8,9,painting184.jpg
+Mountain Path,e0VUprkc1n0,S9E9,9,9,painting185.jpg
+Country Charm,9wp8NRzCJnw,S9E10,10,9,painting186.jpg
+Nature's Paradise,7yU55PUls2c,S9E11,11,9,painting187.jpg
+Mountain by the Sea,so--opB-yuQ,S9E12,12,9,painting188.jpg
+Mountain Hideaway,q48EWPrbzVs,S9E13,13,9,painting189.jpg
+Towering Peaks,1s58rW0_LN4,S10E1,1,10,painting163.jpg
+Cabin at Sunset,a6Wil3OXNuI,S10E2,2,10,painting164.jpg
+Twin Falls,cMwkY8ojRik,S10E3,3,10,painting165.jpg
+Secluded Bridge,vrAMRxBB5KI,S10E4,4,10,painting166.jpg
+Ocean Breeze,XZmdzfvXRuw,S10E5,5,10,painting167.jpg
+Autumn Woods,vKyMU5Z8cDI,S10E6,6,10,painting168.jpg
+Winter Solitude,ov4YaCQB9co,S10E7,7,10,painting170.jpg
+Golden Sunset,CiNDyckERXQ,S10E8,8,10,painting171.jpg
+Mountain Oval,Qj6lMtnCt8o,S10E9,9,10,painting172.jpg
+Ocean Sunset,OJ_xqtvZf3o,S10E10,10,10,painting173.jpg
+Triple View,zoTeyliLn5o,S10E11,11,10,painting174.jpg
+Winter Frost,8satX-hLkuI,S10E12,12,10,painting175.jpg
+Lakeside Cabin,1l_TsfCIb_I,S10E13,13,10,painting176.jpg
+Mountain Stream,xdFCj6BzQio,S11E1,1,11,painting150.jpg
+Country Cabin,Dkww2nHpuZw,S11E2,2,11,painting151.jpg
+Daisy Delight,HuHC1RqtvDA,S11E3,3,11,painting152.jpg
+Hidden Stream,JGzTg8fCj4w,S11E4,4,11,painting153.jpg
+Towering Glacier,67vdGbA3Xkg,S11E5,5,11,painting154.jpg
+Oval Barn,HqBhCibidNM,S11E6,6,11,painting155.jpg
+Lakeside Path,1yjGoJokbZg,S11E7,7,11,painting156.jpg
+Sunset Oval,9xG6IzcGotI,S11E8,8,11,painting157.jpg
+Winter Barn,_xkn0ceDreo,S11E9,9,11,painting158.jpg
+Sunset over the Waves,c4b_B2F1eZg,S11E10,10,11,painting159.jpg
+Golden Glow,aA8RhtaWACA,S11E11,11,11,painting160.jpg
+Roadside Barn,vJpKhiXvXdA,S11E12,12,11,painting161.jpg
+Happy Accident,Fw6odlNp7_8,S11E13,13,11,painting162.jpg
+Golden Knoll,-O0Bs65eN5w,S12E1,1,12,painting137.jpg
+Mountain Reflections,rzYpa4XGSnA,S12E2,2,12,painting138.jpg
+Secluded Mountain,3PZabdohLso,S12E3,3,12,painting139.jpg
+Bright Autumn Trees,aR-C3h5zURM,S12E4,4,12,painting140.jpg
+Black Seascape,P_aCan4cBwc,S12E5,5,12,painting141.jpg
+Steep Mountains,fRK8_ioYWw4,S12E6,6,12,painting142.jpg
+Quiet Mountains River,Leiw-FtADZc,S12E7,7,12,painting143.jpg
+Evening Waterfall,PutvF_P4588,S12E8,8,12,painting144.jpg
+Tropical Seascape,RrBsbqO9aqI,S12E9,9,12,painting145.jpg
+Mountain at Sunset,HCsCatvigtw,S12E10,10,12,painting146.jpg
+Soft Mountain Glow,gOGJYHWjXgE,S12E11,11,12,painting147.jpg
+Mountain in an Oval,1jRPshs27H8,S12E12,12,12,painting148.jpg
+Winter Mountain,46vI20697HI,S12E13,13,12,painting149.jpg
+Rolling Hills,H4GyGrT7lEQ,S13E1,1,13,painting124.jpg
+Frozen Solitude,kNZssD9zWlw,S13E2,2,13,painting125.jpg
+Meadow Brook,06W8GsWj2Yg,S13E3,3,13,painting126.jpg
+Evening at Sunset,7ZUQTXuDPaI,S13E4,4,13,painting127.jpg
+Mountain View,dJfnAyDLwPY,S13E5,5,13,painting128.jpg
+Hidden Creek,KmoRz01bm0Y,S13E6,6,13,painting129.jpg
+Peaceful Haven,j20pZ96E_CE,S13E7,7,13,painting130.jpg
+Mountain Exhibition,bgI3_1quJ18,S13E8,8,13,painting131.jpg
+Emerald Waters,lLunPQBzW6g,S13E9,9,13,painting132.jpg
+Mountain Summit,kasGRkfkiPM,S13E10,10,13,painting133.jpg
+Cabin Hideaway,NjTlW2NL1Lo,S13E11,11,13,painting134.jpg
+Oval Essence,q7WXF_BSEXw,S13E12,12,13,painting135.jpg
+Lost Lake,9-ATP8xyDM0,S13E13,13,13,painting136.jpg
+Distant Mountains,GpA9UM7QGag,S14E1,1,14,painting111.jpg
+Meadow Brook Surprise,Ov5oIHTAa10,S14E2,2,14,painting112.jpg
+Mountain Moonlight Oval,CigXQtT6BPM,S14E3,3,14,painting113.jpg
+Snowy Solitude,1ZriQGhSFTM,S14E4,4,14,painting114.jpg
+Mountain River,CnMLKAGi0yM,S14E5,5,14,painting115.jpg
+Graceful Mountains,0uVe8T-vVVg,S14E6,6,14,painting116.jpg
+Windy Waves,y6GVVjG4HMg,S14E7,7,14,painting117.jpg
+On a Clear Day,e63Cgln6Yag,S14E8,8,14,painting118.jpg
+Riverside Escape Oval,d83REwSGfGo,S14E9,9,14,painting119.jpg
+Surprising Falls,QbclL1ca7_s,S14E10,10,14,painting120.jpg
+Shadow Pond,BQWJ3kqonpA,S14E11,11,14,painting121.jpg
+Misty Forest Oval,ddU9vQvSpw8,S14E12,12,14,painting122.jpg
+Natural Wonder,knOutsaiKfU,S14E13,13,14,painting123.jpg
+Splendor of Winter,oJvk7gPDHiE,S15E1,1,15,painting98.jpg
+Colors of Nature,Me9Ietooq4w,S15E2,2,15,painting99.jpg
+Grandpa's Barn,IPPU49PyfEA,S15E3,3,15,painting100.jpg
+Peaceful Reflections,gYuH4Ilqdhs,S15E4,4,15,painting101.jpg
+Hidden Winter Moon Oval,yxAMOdl6RJE,S15E5,5,15,painting102.jpg
+Waves of Wonder,tayQX_ng-Nc,S15E6,6,15,painting103.jpg
+Cabin by the Pond,TyOO6WeP2AY,S15E7,7,15,painting104.jpg
+Fall Stream,ZY0ofhdV_L0,S15E8,8,15,painting105.jpg
+Christmas Eve Snow,cVqFG2pxK2A,S15E9,9,15,painting106.jpg
+Forest Down Oval,COsJUfPN2dA,S15E10,10,15,painting107.jpg
+Pathway to Autumn,Hg5RKc6xiL4,S15E11,11,15,painting108.jpg
+Deep Forest Lake,2bjFmSQjQrw,S15E12,12,15,painting109.jpg
+Peaks of Majesty,lTb8DN6G6dE,S15E13,13,15,painting110.jpg
+Two Seasons,jwVz0uTLH1I,S16E1,1,16,painting84.jpg
+Nestled Cabin,l_jN9KN257M,S16E2,2,16,painting85.jpg
+Wintertime Discovery,uZyZW3tkCE0,S16E3,3,16,painting86.jpg
+Mountain Mirage Wood Shape,jfCsew_mz7A,S16E4,4,16,painting87.jpg
+Double Oval Fantasy,4jAsLpJzjHM,S16E5,5,16,painting88.jpg
+Contemplative Lady,gnp6WE7Ql-s,S16E6,6,16,painting89.jpg
+Deep Woods,rE5ZVs_YJfE,S16E7,7,16,painting90.jpg
+High Tide,_IREQ4SIcX8,S16E8,8,16,painting91.jpg
+Barn in Snow Oval,wJmi7-G9r-w,S16E9,9,16,painting93.jpg
+That Time of Year,q5moLoqOkP0,S16E10,10,16,painting94.jpg
+Waterfall Wonder,AGhXEPfp-W4,S16E11,11,16,painting95.jpg
+Mighty Mountain Lake,4vXB2R8ybDE,S16E12,12,16,painting96.jpg
+Wooded Stream Oval,-XA2h17y3HU,S16E13,13,16,painting97.jpg
+Golden Mist Oval,lhpfaW0k6uM,S17E1,1,17,painting71.jpg
+The Old Home Place,EVQcDEiJh2o,S17E2,2,17,painting72.jpg
+Soothing Vista,NqfRLiv0SZ0,S17E3,3,17,painting73.jpg
+Stormy Seas,LE6agCR5iBw,S17E4,4,17,painting74.jpg
+Country Time,e_bt9rQoGN0,S17E5,5,17,painting75.jpg
+A Mild Winter's Day,BbYO579MmhA,S17E6,6,17,painting76.jpg
+Spectacular Waterfall,nK-HebXL2uw,S17E7,7,17,painting77.jpg
+View from the Park,Q4n90jsOUtY,S17E8,8,17,painting78.jpg
+Lake View,07acfzBaoa0,S17E9,9,17,painting79.jpg
+Old Country Mill,n8HlFCQACYA,S17E10,10,17,painting80.jpg
+Morning Walk,pSvgNkQdR2Y,S17E11,11,17,painting81.jpg
+Nature's Splendor,uCAtI2IwEwk,S17E12,12,17,painting82.jpg
+Mountain Beauty,8P-YeoTmVrw,S17E13,13,17,painting83.jpg
+Half-Oval Vignette,uY3fIry2tOE,S18E1,1,18,painting58.jpg
+Absolutely Autumn,PGPVpil2UmE,S18E2,2,18,painting59.jpg
+Mountain Seclusion,EBZKuVbRY54,S18E3,3,18,painting60.jpg
+Crimson Oval,R7Y3izMFPbM,S18E4,4,18,painting61.jpg
+Autumn Exhibition,6afHY2d9Lv8,S18E5,5,18,painting62.jpg
+Majestic Peaks,lilbzLCNnDo,S18E6,6,18,painting63.jpg
+Golden Morning Mist,rCHXqj4DHlM,S18E7,7,18,painting64.jpg
+Winter Lace,WJF_qoQRPck,S18E8,8,18,painting65.jpg
+Seascape Fantasy,sBBBilrDuSw,S18E9,9,18,painting66.jpg
+Double Oval Stream,rRjnHdr9DmU,S18E10,10,18,painting67.jpg
+Enchanted Forest,ikR7UT9mVBw,S18E11,11,18,painting68.jpg
+Southwest Serenity,EVfPPJ5FUmA,S18E12,12,18,painting69.jpg
+Rippling Waters,XvnJBynSiT0,S18E13,13,18,painting70.jpg
+Snowfall Magic,1enWTsRi16o,S19E1,1,19,painting44.jpg
+Quiet Mountain Lake,2gq2V6dCt2I,S19E2,2,19,painting45.jpg
+Final Embers of Sunlight,IeFbdk36MUU,S19E3,3,19,painting46.jpg
+Snowy Morn,iB1TDWlo0kk,S19E4,4,19,painting47.jpg
+Camper's Haven,C34WAUgkAT0,S19E5,5,19,painting48.jpg
+Waterfall in the Woods,uBRKVa7sy1Q,S19E6,6,19,painting49.jpg
+Covered Bridge Oval,F4iPbH1OHsQ,S19E7,7,19,painting50.jpg
+Scenic Seclusion,d50HkqB9JEM,S19E8,8,19,painting51.jpg
+Ebb Tide,mFOna_LN7Ys,S19E9,9,19,painting52.jpg
+After the Rain,Wj-3ct7RvAI,S19E10,10,19,painting53.jpg
+Winter Elegance,JjBZzKp_u5E,S19E11,11,19,painting54.jpg
+Evening's Peace,uEUMVwc4o5U,S19E12,12,19,painting56.jpg
+Valley of Tranquility,FnY7jDY5PsE,S19E13,13,19,painting57.jpg
+Mystic Mountain,VlucWfTUo1A,S20E1,1,20,painting31.jpg
+Mystic Mountain,3AHdKAu055M,S20E1,1,20,painting31.jpg
+New Day's Dawn,vbPdQ0w8ylg,S20E2,2,20,painting32.jpg
+Winter in Pastel,kbnXZRNMouM,S20E3,3,20,painting33.jpg
+Hazy Day,5U3G61r35Mc,S20E4,4,20,painting34.jpg
+Divine Elegance,mb-Gwx1S5Gs,S20E5,5,20,painting35.jpg
+Cliffside,p6Uy2qOLvGk,S20E6,6,20,painting36.jpg
+Autumn Fantasy,FozIp7Va7dY,S20E7,7,20,painting37.jpg
+The Old Oak Tree,dN4HjAn8p5U,S20E8,8,20,painting38.jpg
+Winter Paradise,DY1aBv8Z1SQ,S20E9,9,20,painting39.jpg
+Days Gone By,DmYhNHVIdMI,S20E10,10,20,painting40.jpg
+Change of Seasons,QbgPu5f2Vf8,S20E11,11,20,painting41.jpg
+Hidden Delight,ZyPNzDaaDt8,S20E12,12,20,painting42.jpg
+Double Take,ppzFgG2K2k4,S20E13,13,20,painting43.jpg
+Valley View,pw5ETGiiBRg,S21E1,1,21,painting17.jpg
+Tranquil Dawn,4abDq6Q-mlM,S21E2,2,21,painting18.jpg
+Royal Majesty,ubUXBqE6t0U,S21E3,3,21,painting19.jpg
+Serenity,crqmO3qDdco,S21E4,4,21,painting20.jpg
+Cabin at Trails End,GLkLO4KqTRs,S21E5,5,21,painting21.jpg
+Mountain Rhapsody,H4VsmKU5T7g,S21E6,6,21,painting22.jpg
+Wilderness Cabin,GWehiacnd1E,S21E7,7,21,painting23.jpg
+By the Sea,8tHHBTK6wwc,S21E8,8,21,painting24.jpg
+Indian Summer,pfWV8NkotvU,S21E9,9,21,painting25.jpg
+Blue Winter,liR0gS0sZY0,S21E10,10,21,painting27.jpg
+Desert Glow,QyncJfL_HmU,S21E11,11,21,painting28.jpg
+Lone Mountain,NJbzIftLLmU,S21E12,12,21,painting29.jpg
+Florida's Glory,HQC5sPN9Xhc,S21E13,13,21,painting30.jpg
+Autumn Images,HMx34Am6RFg,S22E1,1,22,painting14.jpg
+Hint of Springtime,C-OSaHvt8ms,S22E2,2,22,painting15.jpg
+Around the Bend,Kl5X3icOVvw,S22E3,3,22,painting16.jpg
+Countryside Oval,hdNH5axK4u0,S22E4,4,22,painting4.jpg
+Russet Winter,aE4nID1p-t0,S22E5,5,22,painting5.jpg
+Purple Haze,ZoJ2tcXWb7g,S22E6,6,22,painting6.jpg
+Dimensions,JUuP75RVZDI,S22E7,7,22,painting7.jpg
+Deep Wilderness Home,uZWNvDFfbUk,S22E8,8,22,painting8.jpg
+Haven in the Valley,Qccgam514ds,S22E9,9,22,painting9.jpg
+Wintertime Blues,dbMJVM4iL2Q,S22E10,10,22,painting10.jpg
+Pastel Seascape,K4aud_SpFDQ,S22E11,11,22,painting11.jpg
+Country Creek,JDa6JPcqy88,S22E12,12,22,painting12.jpg
+Silent Forest,AE1GKcL3NuI,S22E13,13,22,painting13.jpg
+Frosty Winter Morn,1-9_enMBquw,S23E1,1,23,painting295.jpg
+Forest Edge,puGk2iFvvp0,S23E2,2,23,painting296.jpg
+Mountain Ridge Lake,Hq-z06i6HCs,S23E3,3,23,painting297.jpg
+Reflections of Gold,8f9CCnqJ_1Y,S23E4,4,23,painting298.jpg
+Quiet Cove,cR9hTbSomx4,S23E5,5,23,painting299.jpg
+Rivers Peace,flCWS9LB4Ks,S23E6,6,23,painting300.jpg
+At Dawn's Light,HFdTxqEznIk,S23E7,7,23,painting301.jpg
+Valley Waterfall,VYcsYzzRae4,S23E8,8,23,painting302.jpg
+Toward Days End,cFi_fJl40BA,S23E9,9,23,painting303.jpg
+Falls in the Glen,txAtX-VyVNc,S23E10,10,23,painting304.jpg
+Frozen Beauty in Vignette,H15kV1wbDG4,S23E11,11,23,painting305.jpg
+Crimson Tide,Y7SDU4i6Fco,S23E12,12,23,painting306.jpg
+Winter Bliss,yInYwy6AsDQ,S23E13,13,23,painting307.jpg
+Gray Mountain,4XxClvPZ1RE,S24E1,1,24,painting308.jpg
+Wayside Pond,FPW2FwK4IOo,S24E2,2,24,painting309.jpg
+Teton Winter,I4h6TC4CPJY,S24E3,3,24,painting310.jpg
+Little Home in the Meadow,nU1zV93N-kI,S24E4,4,24,painting311.jpg
+A Pretty Autumn Day,HWedDS3p7XI,S24E5,5,24,painting312.jpg
+Mirrored Images,i29frkR1T98,S24E6,6,24,painting313.jpg
+Back-Country Path,2iNMoQB1Pe8,S24E7,7,24,painting314.jpg
+Graceful Waterfall,fBh1nA4pMDY,S24E8,8,24,painting315.jpg
+Icy Lake,AmBDmgta3l4,S24E9,9,24,painting316.jpg
+Rowboat on the Beach,hfvhXOvg43w,S24E10,10,24,painting317.jpg
+Portrait of Winter,JLnIUGOupOA,S24E11,11,24,painting318.jpg
+The Footbridge,RqtDliGeyTg,S24E12,12,24,painting319.jpg
+Snowbound Cabin,obSLZWXmDak,S24E13,13,24,painting320.jpg
+Hide A Way Cove,l_HqMYquc08,S25E1,1,25,painting321.jpg
+Enchanted Falls Oval,HklPkQ0lSKA,S25E2,2,25,painting322.jpg
+Not Quite Spring,N_u6x7LeyTM,S25E3,3,25,painting323.jpg
+Splashes of Autumn,YcbaMqq_X8s,S25E4,4,25,painting324.jpg
+Summer in the Mountain,gmCXgS38NDc,S25E5,5,25,painting325.jpg
+Oriental Falls,v8Znj8bbmCQ,S25E6,6,25,painting326.jpg
+Autumn Palette,HWrvW-NgaOY,S25E7,7,25,painting327.jpg
+Cypress Swamp,FdIUHudQABI,S25E8,8,25,painting328.jpg
+Downstream View,KsDPg5HZYNw,S25E9,9,25,painting329.jpg
+Just Before the Storm,Rh-jKrMrmOA,S25E10,10,25,painting330.jpg
+Fisherman's Paradise,uJLK85uU5mA,S25E11,11,25,painting331.jpg
+Desert Hues,UUNNXGVNTuI,S25E12,12,25,painting332.jpg
+The Property Line,ivesI3rU7dU,S25E13,13,25,painting333.jpg
+In the Stillness of Morning,5rfGa1_iJpw,S26E1,1,26,painting334.jpg
+Delightful Meadow Home,tWoInh2USOs,S26E2,2,26,painting335.jpg
+First Snow,raAkJKeo0Sk,S26E3,3,26,painting336.jpg
+Lake in the Valley,KvJmSrErm20,S26E4,4,26,painting337.jpg
+A Trace of Spring,JMPwj3u4ZTA,S26E5,5,26,painting338.jpg
+An Arctic Winter Day,9BHWlbjd95c,S26E6,6,26,painting339.jpg
+Snow Birch,wKeemvioVrM,S26E7,7,26,painting340.jpg
+Early Autumn,SLQXlFLoqQc,S26E8,8,26,painting341.jpg
+Tranquil Wooded Stream,lSeRrm5ZK9c,S26E9,9,26,painting342.jpg
+Purple Mountain Range,nkDA_R-XmqA,S26E10,10,26,painting343.jpg
+Storm's A Comin,EHD9u-lo2wc,S26E11,11,26,painting344.jpg
+Sunset Aglow,gMEZp47VKC0,S26E12,12,26,painting345.jpg
+Evening at the Falls,RulXVcpgpqw,S26E13,13,26,painting346.jpg
+Twilight Beauty,0mJqzzeWyXs,S27E1,1,27,painting347.jpg
+Angler's Haven,XlwfcXZ0AIU,S27E2,2,27,painting348.jpg
+Rustic Winter Woods,3q8Zi9480lw,S27E3,3,27,painting349.jpg
+Wilderness Falls,gxd0MPX8c6I,S27E4,4,27,painting350.jpg
+Winter at the Farm,LeIVNKnWz7o,S27E5,5,27,painting351.jpg
+Daisies at Dawn,_kkZcIgocBM,S27E6,6,27,painting352.jpg
+A Spectacular View,7R9HcaDT9P4,S27E7,7,27,painting353.jpg
+Daybreak,crWDcTvDmec,S27E8,8,27,painting354.jpg
+Island Paradise,Cg3XAVhAas0,S27E9,9,27,painting355.jpg
+Sunlight in the Shadows,xgjQ0v2d9mE,S27E10,10,27,painting356.jpg
+Splendor of a Snowy Winter,JdXCoxkOdwQ,S27E11,11,27,painting357.jpg
+Forest River,wrbGlR22K0Q,S27E12,12,27,painting358.jpg
+Golden Glow of Morning,qXElmiqzcI0,S27E13,13,27,painting359.jpg
+Fisherman's Trail,VnZEpic2UzU,S28E1,1,28,painting360.jpg
+A Warm Winter,_TTdw3YnXuo,S28E2,2,28,painting361.jpg
+Under Pastel Skies,lzODyJS2ZIg,S28E3,3,28,painting362.jpg
+Golden Rays of Sunshine,zxj3xLDNxo0,S28E4,4,28,painting363.jpg
+The Magic of Fall,bSm3fmEyJ20,S28E5,5,28,painting364.jpg
+Glacier Lake,TohG7F8M3Ls,S28E6,6,28,painting365.jpg
+The Old Weathered Barn,NYUIIBFj0iQ,S28E7,7,28,painting366.jpg
+Deep Forest Falls,urHQRbRNuYI,S28E8,8,28,painting367.jpg
+Winter's Grace,mxJ2On9wyvY,S28E9,9,28,painting368.jpg
+Splendor of Autumn,hEyR2FDp-00,S28E10,10,28,painting369.jpg
+Tranquil Seas,kN1DP_yqs-A,S28E11,11,28,painting370.jpg
+Mountain Serenity,wc_YVijYjT4,S28E12,12,28,painting371.jpg
+Home Before Nightfall,22SiIDvyJeM,S28E13,13,28,painting372.jpg
+Island in the Wilderness,lLWEXRAnQd0,S29E1,1,29,painting373.jpg
+Autumn Oval,2XnIdinwot0,S29E2,2,29,painting374.jpg
+Seasonal Progression,T2G5waMfQ-g,S29E3,3,29,painting375.jpg
+Light at the Summit,HOdS-G8p1KE,S29E4,4,29,painting376.jpg
+Countryside Barn,G7Etn7QMeO4,S29E5,5,29,painting377.jpg
+Mountain Lake Falls,dNEp3hoHSDI,S29E6,6,29,painting378.jpg
+Cypress Creek,Tnb2cXKKuWM,S29E7,7,29,painting379.jpg
+Trapper's Cabin,chhCkmp0RG8,S29E8,8,29,painting380.jpg
+Storm on the Horizon,pA_2paUhBAQ,S29E9,9,29,painting381.jpg
+Pot O' Posies,2zv_S_uVoVQ,S29E10,10,29,painting382.jpg
+A Perfect Winter Day,Io4fwhacpEs,S29E11,11,29,painting383.jpg
+Aurora's Dance,iRMsb9Vf7GM,S29E12,12,29,painting384.jpg
+Woodman's Retreat,ODrV0dfQcNs,S29E13,13,29,painting385.jpg
+Babbling Brook,ZHUdS0wEaKk,S30E1,1,30,painting386.jpg
+Woodgrain View,fcx1yUuSf3o,S30E2,2,30,painting387.jpg
+Winter's Peace,Xzv3iiWi1Wo,S30E3,3,30,painting388.jpg
+Wilderness Trail,vGsW_6BCukU,S30E4,4,30,painting389.jpg
+A Copper Winter,BSjee-ond7w,S30E5,5,30,painting390.jpg
+Misty Foothills,LEz4UVL7POE,S30E6,6,30,painting391.jpg
+Through the Window,SrN4A9rVXj0,S30E7,7,30,painting392.jpg
+Home in the Valley,enutOy-nsZk,S30E8,8,30,painting393.jpg
+Mountains of Grace,nXlu_Q0sR7c,S30E9,9,30,painting394.jpg
+Seaside Harmony,CY6sGFs209E,S30E10,10,30,painting395.jpg
+A Cold Spring Day,jq8bIbpW7DQ,S30E11,11,30,painting396.jpg
+Evening's Glow,eTEKGOi6SVg,S30E12,12,30,painting397.jpg
+Blue Ridge Falls,fz0YjqtHW84,S30E13,13,30,painting398.jpg
+Reflections of Calm,kJFB6rH3z2A,S31E1,1,31,painting399.jpg
+Before the Snowfall,_MdMhQIOL1Y,S31E2,2,31,painting400.jpg
+Winding Stream,QDwd4pMYyuo,S31E3,3,31,painting401.jpg
+Tranquility Cove,7t6ue0pEcNE,S31E4,4,31,painting402.jpg
+Cabin in the Hollow,KYlM2zJnNWY,S31E5,5,31,painting403.jpg
+View from Clear Creek,TLX1bmS8wBE,S31E6,6,31,painting404.jpg
+Bridge to Autumn,ReENCTH7MYI,S31E7,7,31,painting405.jpg
+Trail's End,XWQrP-WiLgc,S31E8,8,31,painting406.jpg
+Evergreen Valley,mEU0stNfkxI,S31E9,9,31,painting407.jpg
+Balmy Beach,kMgd6r6c4vE,S31E10,10,31,painting408.jpg
+Lake at the Ridge,8QWvzEQ69Kw,S31E11,11,31,painting409.jpg
+In the Midst of Winter,qx2IsmrCs3c,S31E12,12,31,painting410.jpg
+Wilderness Day,nJGCVFn57U8,S31E13,13,31,painting411.jpg
