@@ -8,6 +8,8 @@
 - add design (in Figma first?)
 
 
+- add playlist ID to the data and to the app
+
 
 Tests:
 - load CSV
