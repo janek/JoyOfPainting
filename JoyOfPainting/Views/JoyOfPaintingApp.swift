@@ -14,8 +14,4 @@ struct JoyOfPaintingApp: App {
             MainView()
         }
     }
-
-    init() {
-        var a = episodes
-    }
 }
