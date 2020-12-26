@@ -19,10 +19,6 @@ struct Episode: Identifiable {
     var id: String { "S" + String(seasonNumber) + "E" + String(episodeNumber)}
     var youtubeLink: URL {
         let youtubeAppURL =  URL(string: "youtube://" + youtubeVideoId)!
-        if UIApplication.shared.canOpenURL(youtubeAppURL) {
-            return youtubeAppURL
-        } else {
-            return URL(string: "https://www.youtube.com/v/\(youtubeVideoId)")!
-        }
+        return canOpenYoutubeApp ? youtubeAppURL : URL(string: "https://www.youtube.com/v/\(youtubeVideoId)")!
     }
 }
