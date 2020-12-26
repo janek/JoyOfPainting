@@ -1,14 +1,16 @@
 ###TODO
 
 - design
-    - rounded corners for paintings
     - different font
-    - subtitle 
     - ipad
 
+- add detail view (OR NOT)
+- add search & filter (OR NOT)
 - add playlist ID to the data and to the app
 - document the scraping process, or even clean up the code
 - consider switching to JSON and Codable for loading
+- something seems to be wrong with constraints sometimes
+    - check simulator, change orient, then check phone
 
 
 Add tests:
