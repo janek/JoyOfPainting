@@ -1,4 +1,4 @@
-###Roadmap:
+### Roadmap:
 - find and remove any duplicates, note how they came to be
 - search/filter feature
 - save/favorite feature
@@ -8,5 +8,5 @@
   - download a sample of 15 random eps from diff seasons
   - scan them for text
 
-###Later:
+### Later:
 - change icon to any painting?
